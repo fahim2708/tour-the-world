@@ -28,4 +28,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Live Link
-[Tour The World](https://tour-the-world.web.app/)
+[Tour The World](https://tour-the-world-9b68d.web.app/)
